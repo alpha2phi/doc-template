@@ -1,5 +1,5 @@
 {
   "project_name": "Enter project name without space",
-  "site_name": "Documentation for {{ cookiecutter.project_name }} ",
+  "site_name": "Documentation for {{ cookiecutter.project_name }}",
   "repo_url": "Enter repository URL"
 }
