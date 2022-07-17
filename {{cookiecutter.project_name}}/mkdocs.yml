@@ -1,5 +1,5 @@
-site_name: Documentation for Enter project name without space 
-repo_url: Enter repository URL
+site_name: {{ cookiecutter.site_name }}
+repo_url: {{ cookiecutter.repo_url }}
 theme:
   name: "material"
 use_directory_urls: false
