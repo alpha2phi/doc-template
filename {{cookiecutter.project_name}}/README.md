@@ -1,1 +1,1 @@
-Documentation for {{ cookiecutter.site_name }}
+Documentation for {{ cookiecutter.project_name }}
